@@ -1,2 +1,3 @@
 # Czechtris
-Language game of czech language.
+Language game for czech. Bachelor thesis at Masaryk Univerzity. 
+Dobroslav Bernáth
